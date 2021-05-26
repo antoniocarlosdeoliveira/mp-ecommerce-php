@@ -7,6 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="format-detection" content="telephone=no">
 
+    <script src="https://sdk.mercadopago.com/js/v2"></script>
+
     <script
     src="https://code.jquery.com/jquery-3.4.1.min.js"
     integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
@@ -365,7 +367,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                R$16.000
+                                                $16.000
                                                 <span class="as-price-previousprice as-producttile-previousprice">
                                                 </span>
                                             </div>
