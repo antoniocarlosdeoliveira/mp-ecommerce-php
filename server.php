@@ -10,9 +10,13 @@ $preference = new MercadoPago\Preference();
 
 // Cria um item na preferência
 $item = new MercadoPago\Item();
-$item->title = 'Meu produto';
+$item->id = "1234";
+$item->title = "Meu produto";
+$item->currency_id = "BRL";
+$item->description = "Celular de Tienda e-commerce";
+$item->category_id = "art";
 $item->quantity = 1;
-$item->unit_price = 75.56;
+$item->unit_price = 75.76;
 $preference->items = array($item);
 $preference->save();
 ?>
