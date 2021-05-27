@@ -161,7 +161,7 @@
         // Inicialize o checkout
         mp.checkout({
             preference: {
-                id: 'YOUR_PREFERENCE_ID'
+                id: '725736327-6cdd97d3-a75e-4f11-b186-39be4608114d'
             },
             render: {
                   container: '.as-producttile-info', // Indica onde o botão de pagamento será exibido
