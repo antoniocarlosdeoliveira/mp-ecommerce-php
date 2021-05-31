@@ -182,7 +182,7 @@
 
                                                         </ul>
                                                         <button class="as-searchmoreless-toggle as-searchfilter-morebutton  as-search-more" id="iPad Compatibility_more">
-                                                            <span class="as-search-morelessbutton-text">More</span>
+                                                            <span class="as-search-morelessbutton-text">Mais</span>
                                                         </button>
                                                     </div>
                                                 </materializer>
@@ -254,7 +254,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                R$15.000
+                                                R$ 15.000
                                             </div>
                                         </div>
                                         <form action="/detail.php" method="get">
@@ -309,7 +309,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                R$10.000
+                                                R$ 10.000
                                             </div>
                                         </div>
                                         <form action="/detail.php" method="get">
@@ -365,7 +365,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                R$16.000
+                                                R$ 16.000
                                                 <span class="as-price-previousprice as-producttile-previousprice">
                                                 </span>
                                             </div>
@@ -422,7 +422,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                R$9.000
+                                                R$ 9.000
                                                 <span class="as-price-previousprice as-producttile-previousprice">
                                                 </span>
                                             </div>
@@ -474,7 +474,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                R$8.000
+                                                R$ 8.000
                                             </div>
                                         </div>
                                         <form action="/detail.php" method="get">
@@ -523,7 +523,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                R$10.000
+                                                R$ 10.000
                                                 <span class="as-price-previousprice as-producttile-previousprice">
                                                 </span>
                                             </div>
