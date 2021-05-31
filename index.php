@@ -248,19 +248,19 @@
                                             <div class="as-producttile-title">
                                                 <h3 class="as-producttile-name">
                                                     <p class="as-producttile-tilelink">
-                                                        <span data-ase-truncate="2">Samsung Galaxy S20</span>
+                                                        <span data-ase-truncate="2">Galaxy S20</span>
                                                     </p>
 
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                R$ 15.000
+                                                R$ 75,76
                                             </div>
                                         </div>
                                         <form action="/detail.php" method="get">
                                             <input type="hidden" name="img" value="./assets/samsung-galaxy-s9-xxl.jpg">
-                                            <input type="hidden" name="title" value="Samsung Galaxy S9">
-                                            <input type="hidden" name="price" value="15000">
+                                            <input type="hidden" name="title" value="Galaxy S20">
+                                            <input type="hidden" name="price" value="75,76">
                                             <input type="hidden" name="unit" value="1">
                                             <button type="submit" class="mercadopago-button" formmethod="post">Comprar</button>
                                         </form>

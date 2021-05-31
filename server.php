@@ -44,7 +44,7 @@ $payer->address = array(
 );
 
 $preference->back_urls = array(
-    "success" => "https://checkout-pro.herokuapp.com",
+    "success" => "https://mercadolivre.com",
     "failure" => "https://checkout-pro.herokuapp.com",
     "pending" => "https://checkout-pro.herokuapp.com"
 );
