@@ -248,7 +248,7 @@
                                             <div class="as-producttile-title">
                                                 <h3 class="as-producttile-name">
                                                     <p class="as-producttile-tilelink">
-                                                        <span data-ase-truncate="2">Samsung Galaxy S9</span>
+                                                        <span data-ase-truncate="2">Samsung Galaxy S20</span>
                                                     </p>
 
                                                 </h3>
@@ -266,7 +266,7 @@
                                         </form>
                                     </div>
                                 </div>
-                                <div class="as-producttile large-4 small-6 group-1">
+                                <!-- <div class="as-producttile large-4 small-6 group-1">
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
 
@@ -485,8 +485,8 @@
                                             <button type="submit" class="mercadopago-button" formmethod="post">Comprar</button>
                                         </form>
                                     </div>
-                                </div>
-                                <div class="as-producttile large-4 small-6 group-2">
+                                </div> -->
+                                <!-- <div class="as-producttile large-4 small-6 group-2">
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
 
@@ -536,7 +536,7 @@
                                             <button type="submit" class="mercadopago-button" formmethod="post">Comprar</button>
                                         </form>
                                     </div>
-                                </div>
+                                </div> -->
 
                             </div>
                             <div class="column large-12 small-12">
