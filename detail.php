@@ -79,7 +79,7 @@
 
                                     <button class="as-filter-button" aria-expanded="true" aria-controls="as-search-filters" type="button">
                                         <h2 class=" as-filter-button-text">
-                                            Smartphones
+                                            <a href="index.php">Página Inicial</a>
                                         </h2>
                                     </button>
 
