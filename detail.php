@@ -144,7 +144,7 @@
         <div class="as-footnotes">
             <div class="as-footnotes-content">
                 <div class="as-footnotes-sosumi">
-                    Todos los derechos reservados Tienda Tecno 2019
+                    Todos los derechos reservados Tienda Tecno 2021
                 </div>
             </div>
         </div>
@@ -161,7 +161,7 @@
         // Inicialize o checkout
         mp.checkout({
             preference: {
-                id: '725736327-4890d6e9-c187-4b42-97a6-07f131afcbb4'
+                id: '725736327-ebc58845-f2d3-4449-9d81-165ccd25b531'
             },
             render: {
                   container: '.as-producttile-info', // Indica onde o botão de pagamento será exibido
