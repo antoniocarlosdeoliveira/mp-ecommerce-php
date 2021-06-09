@@ -13,9 +13,9 @@ $preference = new MercadoPago\Preference();
 // Cria um item na preferência
 $item = new MercadoPago\Item();
 $item->id = "1234";
-$item->title = "Meu produto";
+$item->title = "Galaxy S20";
 $item->currency_id = "BRL";
-$item->description = "Certificação Checkout-Pro";
+$item->description = "Celular de Tienda e-commerce";
 $item->category_id = "art";
 $item->quantity = 1;
 $item->unit_price = 75.76;
@@ -44,7 +44,7 @@ $payer->address = array(
 );
 
 $preference->back_urls = array(
-    "success" => "https://mercadolivre.com",
+    "success" => "https://checkout-pro.herokuapp.com",
     "failure" => "https://checkout-pro.herokuapp.com",
     "pending" => "https://checkout-pro.herokuapp.com"
 );
@@ -64,9 +64,9 @@ $preference->payment_methods = array(
 	"installments" = 6
 );
 
-$preference->notification_url = "https://webhook.site/cc8077f9-4185-471e-85c0-734f744298c7";
+$preference->notification_url = "https://webhook.site/65eb502d-a735-4613-aa76-c388cd6fd2a4";
 $preference->statement_descriptor = "MEUNEGOCIO";
-$preference->external_reference = "livegames2011@hotmail.com";
+$preference->external_reference = "djcorvy@gmail.com";
 
 MercadoPago\SDK::setIntegratorId("dev_24c65fb163bf11ea96500242ac130004");
 
