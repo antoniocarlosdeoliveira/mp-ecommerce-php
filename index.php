@@ -2,7 +2,7 @@
 <html class="supports-animation supports-columns svg no-touch no-ie no-oldie no-ios supports-backdrop-filter as-mouseuser" lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
     <meta name="viewport" content="width=1024">
-    <title>Tienda e-commerce</title>
+    <title>Certificação Checkout-Pro</title>
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="format-detection" content="telephone=no">
@@ -55,7 +55,7 @@
                                     <img src="./assets/music-audio-alp-201709" alt="" width="1440" height="320" data-scale-params-2="wid=2880&amp;hei=640&amp;fmt=jpeg&amp;qlt=95&amp;op_usm=0.5,0.5&amp;.v=1503948581306" class="pd-billboard-hero ir">
                                 </div>
                                 <div class="pd-billboard-info">
-                                    <h1 class="pd-billboard-header pd-util-compact-small-18">Tienda e-commerce</h1>
+                                    <h1 class="pd-billboard-header pd-util-compact-small-18">Certificação Checkout-Pro</h1>
                                 </div>
                             </div>
                         </div>
@@ -182,7 +182,7 @@
 
                                                         </ul>
                                                         <button class="as-searchmoreless-toggle as-searchfilter-morebutton  as-search-more" id="iPad Compatibility_more">
-                                                            <span class="as-search-morelessbutton-text">More</span>
+                                                            <span class="as-search-morelessbutton-text">Mais</span>
                                                         </button>
                                                     </div>
                                                 </materializer>
@@ -193,10 +193,10 @@
                                                 <div class="as-accordion-header as-search-accordion-header" data-ase-materializer="as-accordion-id1" data-ase-click="toggle">
                                                     <button id="as-accordion-header-button1" class="as-accordion-button" aria-controls="as-accordion-id1" aria-expanded="false" aria-labelledby="as-accordion-label-id1">
                                                         <span id="as-accordion-label-id1" class="as-accordion-title">
-                                                            <span class="as-search-accordion-title">Precio</span>
+                                                            <span class="as-search-accordion-title">Preço</span>
                                                         </span>
                                                         <span class="icon icon-plus as-accordion-plusicon">
-                                                            <span class="a11y">Precio</span>
+                                                            <span class="a11y">Preço</span>
                                                         </span>
                                                     </button>
                                                 </div>
@@ -248,25 +248,25 @@
                                             <div class="as-producttile-title">
                                                 <h3 class="as-producttile-name">
                                                     <p class="as-producttile-tilelink">
-                                                        <span data-ase-truncate="2">Samsung Galaxy S9</span>
+                                                        <span data-ase-truncate="2">Galaxy S20</span>
                                                     </p>
 
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $15.000
+                                                R$ 75,76
                                             </div>
                                         </div>
                                         <form action="/detail.php" method="get">
                                             <input type="hidden" name="img" value="./assets/samsung-galaxy-s9-xxl.jpg">
-                                            <input type="hidden" name="title" value="Samsung Galaxy S9">
-                                            <input type="hidden" name="price" value="15000">
+                                            <input type="hidden" name="title" value="Galaxy S20">
+                                            <input type="hidden" name="price" value="75,76">
                                             <input type="hidden" name="unit" value="1">
                                             <button type="submit" class="mercadopago-button" formmethod="post">Comprar</button>
                                         </form>
                                     </div>
                                 </div>
-                                <div class="as-producttile large-4 small-6 group-1">
+                                <!-- <div class="as-producttile large-4 small-6 group-1">
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
 
@@ -309,7 +309,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $10.000
+                                                R$ 10.000
                                             </div>
                                         </div>
                                         <form action="/detail.php" method="get">
@@ -365,7 +365,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $16.000
+                                                R$ 16.000
                                                 <span class="as-price-previousprice as-producttile-previousprice">
                                                 </span>
                                             </div>
@@ -422,7 +422,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $9.000
+                                                R$ 9.000
                                                 <span class="as-price-previousprice as-producttile-previousprice">
                                                 </span>
                                             </div>
@@ -474,7 +474,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $8.000
+                                                R$ 8.000
                                             </div>
                                         </div>
                                         <form action="/detail.php" method="get">
@@ -485,8 +485,8 @@
                                             <button type="submit" class="mercadopago-button" formmethod="post">Comprar</button>
                                         </form>
                                     </div>
-                                </div>
-                                <div class="as-producttile large-4 small-6 group-2">
+                                </div> -->
+                                <!-- <div class="as-producttile large-4 small-6 group-2">
                                     <div class="as-producttile-tilehero with-paddlenav with-paddlenav-onhover">
                                         <div class="as-dummy-container as-dummy-img">
 
@@ -523,7 +523,7 @@
                                                 </h3>
                                             </div>
                                             <div class="as-price-currentprice as-producttile-currentprice">
-                                                $10.000
+                                                R$ 10.000
                                                 <span class="as-price-previousprice as-producttile-previousprice">
                                                 </span>
                                             </div>
@@ -536,7 +536,7 @@
                                             <button type="submit" class="mercadopago-button" formmethod="post">Comprar</button>
                                         </form>
                                     </div>
-                                </div>
+                                </div> -->
 
                             </div>
                             <div class="column large-12 small-12">
@@ -556,7 +556,7 @@
         <div class="as-footnotes ">
             <div class="as-footnotes-content">
                 <div class="as-footnotes-sosumi">
-                    Todos los derechos reservados Tienda Tecno 2018
+                    Todos los derechos reservados Tienda Tecno 2021
                 </div>
             </div>
         </div>

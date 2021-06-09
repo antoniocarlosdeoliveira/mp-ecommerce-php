@@ -15,7 +15,7 @@ $item = new MercadoPago\Item();
 $item->id = "1234";
 $item->title = "Meu produto";
 $item->currency_id = "BRL";
-$item->description = "Celular de Tienda e-commerce";
+$item->description = "Certificação Checkout-Pro";
 $item->category_id = "art";
 $item->quantity = 1;
 $item->unit_price = 75.76;
@@ -44,7 +44,7 @@ $payer->address = array(
 );
 
 $preference->back_urls = array(
-    "success" => "https://checkout-pro.herokuapp.com",
+    "success" => "https://mercadolivre.com",
     "failure" => "https://checkout-pro.herokuapp.com",
     "pending" => "https://checkout-pro.herokuapp.com"
 );
